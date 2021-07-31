@@ -6,7 +6,7 @@ I'm Elie Annestay and here's a few things about me:
 
 - 🌱 I’m currently learning CSS and Javascript, after that I will getback to React/React Native, I will also learn more about C and hopefully create good projects with it. (will probably need some php under my belt sooner or later). On other topics, I'm learning about bioplastics and experimenting with chitosan and Polylactic Acid.
 
-- 👯 I’m looking to collaborate on a language learning app using react native, making bioplastics.
+- 👯 I’m looking to collaborate on a language learning app using react native.
 
 - 🤔 I’m looking for help with css animations, most of React/React Native.
 
