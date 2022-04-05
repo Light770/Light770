@@ -2,9 +2,9 @@
 
 I'm Elie Annestay and here's a few things about me:
 
-- 🔭 I’m currently working on a css library between bootstrap and neumorphism called Neostrap, my current progress on it is accessible on my Neostrap repo. Modifying my ender 3v2 to use a syringe with some custom parts, the first version should be up on a repo/thingiverse in march 2021.
+- 🔭 I’m currently working on a css library between bootstrap and neumorphism called Neostrap, my current progress on it is accessible on my Neostrap repo. Modifying my ender 3v2 to use a syringe with some custom parts that will be available someday. Also working on a Linear regression librairy in C.
 
-- 🌱 I’m currently learning CSS and Javascript, after that I will getback to React/React Native, I will also learn more about C and hopefully create good projects with it. (will probably need some php under my belt sooner or later). On other topics, I'm learning about bioplastics and experimenting with chitosan and Polylactic Acid.
+- 🌱 I’m currently learning Javascript, after that I will getback to React/React Native. I will also learn more about C and hopefully finish my linear regression librairy. On other topics, I'm learning about bioplastics and will get back to experimenting with chitosan and Polylactic Acid.
 
 - 👯 I’m looking to collaborate on a language learning app using react native.
 
